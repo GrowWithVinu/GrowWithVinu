@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/GrowWithVinu">
-<img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Hi%2C%20I'm%20Vinay%20Kumar%20Mahato.gif"
+<img src="https://github.com/GrowWithVinu/GrowWithVinu/blob/main/my%20profile%20123.png"
 alt="GrowWithVinu" style="border-radius: 10px;" />
 </a>
 </p>
